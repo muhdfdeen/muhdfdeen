@@ -39,3 +39,9 @@ I am a third-year college student passionate about Computer Science. I enjoy exp
 </picture>
 
 </div>
+
+<style>
+a[href="#"] {
+    cursor: default;
+}
+</style>
