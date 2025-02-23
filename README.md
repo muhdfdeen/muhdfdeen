@@ -1,10 +1,12 @@
 <div align="center">
 
-## Hello! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=2500&pause=1000&color=FFF4E6&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!)]()
 
 I am a third-year college student with a passion for Computer Science. I love exploring new technologies and continuously improving my skills.
 
-## 🌱 Currently Learning
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=2500&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning)]()
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -13,12 +15,16 @@ I am a third-year college student with a passion for Computer Science. I love ex
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-## 📫 Contact Me
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=2500&pause=1000&color=F8F0FC&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me)]()
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fdeen02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdeen02)
 
-## 📊 My GitHub Stats
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=2500&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats)]()
 
 <picture>
     <source
