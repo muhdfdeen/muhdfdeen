@@ -66,6 +66,8 @@ I am a third-year college student passionate about Computer Science. I enjoy exp
     <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats" alt="Personal Statistics" />
 </picture>
 
+<br>
+
 <picture>
     <source
         srcset="https://fdeen02-github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=dark&hide_title=true&hide_border=true"
