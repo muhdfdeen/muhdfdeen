@@ -56,14 +56,14 @@ I am a third-year college student passionate about Computer Science. I enjoy exp
 
 <picture>
     <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats"
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+Personal+Stats"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=228be6&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats"
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=228be6&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+Personal+Stats"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats" alt="Personal Statistics" />
+    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+Personal+Stats" alt="Personal Statistics" />
 </picture>
 
 <br>
