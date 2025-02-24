@@ -28,6 +28,8 @@ I am a third-year college student passionate about Computer Science. I enjoy exp
     <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning" alt="Currently Learning" />
 </picture>
 
+<br>
+
 <picture>
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 </picture>
