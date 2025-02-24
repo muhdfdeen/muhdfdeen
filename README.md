@@ -1,12 +1,32 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=FFF4E6&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!)
+<picture>
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=FFF4E6&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=ffa94d&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=FFF4E6&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!" alt="Welcome to my Profile!" />
+</picture>
 
 I am a third-year college student passionate about Computer Science. I enjoy exploring new technologies and continuously improving my skills. Currently, I am deepening my understanding of previously learned concepts. In the future, I plan to expand my knowledge to more languages and frameworks.
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning)
+<picture>
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=a9e34b&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning" alt="Currently Learning" />
+</picture>
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,14 +37,34 @@ I am a third-year college student passionate about Computer Science. I enjoy exp
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F8F0FC&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me)
+<picture>
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F8F0FC&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=da77f2&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F8F0FC&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me" alt="Contact Me" />
+</picture>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fdeen02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdeen02)
 
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats)
+<picture>
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=4dabf7&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+My+GitHub+Stats" alt="My GitHub Stats" />
+</picture>
 
 <picture>
     <source
