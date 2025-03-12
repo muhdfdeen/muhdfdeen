@@ -1,80 +1,43 @@
 <div align="center">
 
-<picture>
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=FFF4E6&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=fd7e14&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=FFF4E6&center=true&repeat=false&width=250&lines=%F0%9F%91%8B+Welcome+to+my+Profile!" alt="Welcome to my Profile!" />
-</picture>
+# Hi there, 👋! I'm Fardeen. 👨‍💻
 
 I am a third-year college student passionate about Computer Science. I enjoy exploring new technologies and continuously improving my skills. Currently, I am deepening my understanding of previously learned concepts. In the future, I plan to expand my knowledge to more languages and frameworks.
 
----
+## 💻 My Workplace Setup
+
+![Windows](https://img.shields.io/badge/Windows-11-89b4fa?style=for-the-badge)
+![RAM](https://img.shields.io/badge/RAM-16GB-6c7086.svg?&style=for-the-badge&logo=framework)
+![AMD](https://img.shields.io/badge/AMD-Ryzen_7_7840HS-eba0ac?style=for-the-badge&logo=amd)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_4060-a6e3a1?style=for-the-badge&logo=nvidia)
+
+
+## 👨‍💻 Focus Areas
+
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
+![HTML5](https://img.shields.io/badge/HTML5-EEE.svg?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/javascript-333.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-333.svg?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular)
+
+## 📧 Get In Touch
+
+[![Gmail](https://img.shields.io/badge/Gmail-EEE?style=for-the-badge&logo=gmail)](mailto:m.fdeen02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/fdeen02)
+
+## 📊 Personal Stats
 
 <picture>
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=82c91e&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F4FCE3&center=true&repeat=false&width=250&lines=%F0%9F%8C%B1+Currently+Learning" alt="Currently Learning" />
-</picture>
-
-<br>
-
-![My Skills](https://skillicons.dev/icons?i=java,html,css,js,ts,angular)
-
----
-
-<picture>
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F8F0FC&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=15aabf&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=F8F0FC&center=true&repeat=false&width=250&lines=%F0%9F%93%AB+Contact+Me" alt="Contact Me" />
-</picture>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.fdeen02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fdeen02)
-
----
-
-<picture>
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+Personal+Stats"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=228be6&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+Personal+Stats"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://readme-typing-svg.demolab.com?font=Anuphan&duration=1000&pause=1000&color=E7F5FF&center=true&repeat=false&width=250&lines=%F0%9F%93%8A+Personal+Stats" alt="Personal Statistics" />
-</picture>
-
-<br>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_mocha"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte" />
 </picture>
 
 </div>
