@@ -66,15 +66,15 @@ I am a third-year college student passionate about Computer Science. I enjoy exp
 <br>
 
 <picture>
-    <source
-        srcset="https://fdeen02-github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=dark&hide_title=true&hide_border=true"
-        media="(prefers-color-scheme: dark)"
-    />
-    <source
-        srcset="https://fdeen02-github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&hide_title=true&hide_border=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://fdeen02-github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&hide_title=true&hide_border=true" alt="Personal Statistics" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_mocha"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte" />
 </picture>
 
 </div>
