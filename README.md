@@ -1,8 +1,11 @@
-<div align="center">
-
 # Hi there, 👋! I'm Fardeen. 👨‍💻
 
-I am a third-year college student passionate about Computer Science. I enjoy exploring new technologies and continuously improving my skills. Currently, I am deepening my understanding of previously learned concepts. In the future, I plan to expand my knowledge to more languages and frameworks.
+Aspiring to craft **efficient and user-friendly software** and eager to dive into the **open-source community**. I'm on a journey to solve complex problems, constantly learn new technologies, and ultimately build truly **impactful applications**.
+
+- 👨‍🎓 I'm currently an undergraduate at [UW-La Crosse](https://www.uwlax.edu/).
+- 🌱 Actively building my skills and deepening my understanding of core computer science concepts.
+- 🚀 Excited to explore new languages and frameworks and contribute to **innovative web projects** in the future.
+- 🤝 Keen to engage with **open-source initiatives** and learn from the wider developer community as I grow.
 
 ## 💻 My Workplace Setup
 
