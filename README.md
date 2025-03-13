@@ -1,4 +1,4 @@
-# Hi there, 👋! I'm Fardeen. 👨‍💻
+# Hi there! 👋 I'm Fardeen.
 
 Aspiring to craft **efficient and user-friendly software** and eager to dive into the **open-source community**. I'm on a journey to solve complex problems, constantly learn new technologies, and ultimately build truly **impactful applications**.
 
