@@ -10,7 +10,7 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 ## 💻 My Current Setup
 
 ![Windows](https://img.shields.io/badge/Windows-11-89b4fa?style=for-the-badge)
-![RAM](https://img.shields.io/badge/RAM-16GB-6c7086.svg?&style=for-the-badge&logo=framework)
+![RAM](https://img.shields.io/badge/RAM-32_GB-6c7086.svg?&style=for-the-badge&logo=framework)
 ![AMD](https://img.shields.io/badge/AMD-Ryzen_7_7840HS-eba0ac?style=for-the-badge&logo=amd)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_4060-a6e3a1?style=for-the-badge&logo=nvidia)
 
