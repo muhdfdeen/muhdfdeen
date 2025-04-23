@@ -7,13 +7,6 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 - 🚀 I'm always looking to learn new languages and frameworks to broaden my skillset.
 - 🤝 I'm interested in observing and learning from the open-source community and hope to contribute to projects as my skills grow.
 
-## 💻 My Current Setup
-
-![Windows](https://img.shields.io/badge/Windows-11-89b4fa?style=for-the-badge)
-![RAM](https://img.shields.io/badge/RAM-32_GB-6c7086.svg?&style=for-the-badge&logo=framework)
-![AMD](https://img.shields.io/badge/AMD-Ryzen_7_7840HS-eba0ac?style=for-the-badge&logo=amd)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-RTX_4060-a6e3a1?style=for-the-badge&logo=nvidia)
-
 ## 👨‍💻 Technologies I'm Working With / Learning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
@@ -22,6 +15,7 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 ![JavaScript](https://img.shields.io/badge/javascript-333.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-333.svg?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular)
+![Astro](https://img.shields.io/badge/astro-252730.svg?style=for-the-badge&logo=astro)
 
 ## 📧 Get In Touch
 
