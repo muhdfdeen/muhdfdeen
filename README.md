@@ -10,6 +10,7 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 ## 👨‍💻 Technologies I'm Working With / Learning
 
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-444.svg?style=for-the-badge&logo=c)
 ![HTML5](https://img.shields.io/badge/HTML5-EEE.svg?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/javascript-333.svg?style=for-the-badge&logo=javascript)
@@ -19,7 +20,7 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 
 ## 📧 Get In Touch
 
-[![Gmail](https://img.shields.io/badge/Gmail-EEE?style=for-the-badge&logo=gmail)](mailto:m.fdeen02@gmail.com)
+[![ProtonMail](https://img.shields.io/badge/Email-EEE?style=for-the-badge&logo=protonmail)](mailto:muhd@fdeen.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/fdeen02)
 
 ## 📊 My GitHub Stats
