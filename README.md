@@ -21,20 +21,20 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 ## 📧 Get In Touch
 
 [![ProtonMail](https://img.shields.io/badge/Email-EEE?style=for-the-badge&logo=protonmail)](mailto:muhd@fdeen.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/fdeen02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/muhdfdeen)
 
 ## 📊 My GitHub Stats
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_mocha"
+    srcset="https://github-readme-stats.vercel.app/api?username=muhdfdeen&show_icons=true&theme=catppuccin_mocha"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte"
+    srcset="https://github-readme-stats.vercel.app/api?username=muhdfdeen&show_icons=true&theme=catppuccin_latte"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=fdeen02&show_icons=true&theme=catppuccin_latte" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhdfdeen&show_icons=true&theme=catppuccin_latte" />
 </picture>
 
 </div>
