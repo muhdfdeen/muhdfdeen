@@ -18,11 +18,6 @@ I'm a Computer Science student at [UW-La Crosse](https://www.uwlax.edu/), curren
 ![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular)
 ![Astro](https://img.shields.io/badge/astro-252730.svg?style=for-the-badge&logo=astro)
 
-## 📧 Get In Touch
-
-[![ProtonMail](https://img.shields.io/badge/Email-EEE?style=for-the-badge&logo=protonmail)](mailto:muhd@fdeen.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge)](https://www.linkedin.com/in/muhdfdeen)
-
 ## 📊 My GitHub Stats
 
 <picture>
