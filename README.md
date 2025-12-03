@@ -6,7 +6,7 @@ I'm a Computer Science student at the University of Wisconsin-La Crosse and the 
 
 - **Languages:** TypeScript, JavaScript, Java, Python, C, Assembly, SQL
 - **Frameworks:** Angular, Astro
-- **Tools:** Git, GitHub Actions, Gradle, Vitest, Linux (Debian), WSL
+- **Tools:** Git, Linux (Debian), WSL
 
 ## 📊 My GitHub Stats
 
